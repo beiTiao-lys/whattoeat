@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "鱼香肉丝"
+        },
+        {
+            "id": 2,
+            "title": "乾隆白菜"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
